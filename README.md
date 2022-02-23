@@ -1,0 +1,1 @@
+The Caesar cipher is a technique in which an encryption algorithm is used to change some text for gaining integrity, confidentiality and security of a message.
