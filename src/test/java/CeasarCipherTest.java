@@ -1,4 +1,14 @@
-package PACKAGE_NAME;
+import org.junit.Test;
 
-public class CeasarCipherTest {
+import static org.junit.Assert.*;
+
+class CaesarCipherTest {
+
+
+    @Test
+    public  void checkCipherText(){
+        CaesarCipher cipher = new CaesarCipher();
+
+    }
+
 }
