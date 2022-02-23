@@ -12,7 +12,7 @@ class CaesarCipher {
         Decoding decode = new Decoding();
 
         //Getting the Input String from the user
-        System.out.println("Enter The Text To Be Encoded");
+        System.out.println("Enter The You want Encoded");
         cipher.setInputString(scanner.nextLine());
 
         //Getting the cipher Key from the User
