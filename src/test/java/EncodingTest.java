@@ -7,7 +7,7 @@ public class EncodingTest {
     @Test
     public  void checkCipherText(){
         Encoding encode = new Encoding();
-        assertEquals("mkpawc", encode.encode("kinyua", 2));
+        assertEquals("mkp", encode.encode("kin", 2));
     }
 
 
