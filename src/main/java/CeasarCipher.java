@@ -16,7 +16,7 @@ class CaesarCipher {
         cipher.setInputString(scanner.nextLine());
 
         //Getting the cipher Key from the User
-        System.out.println("Enter The Cipher or Shift  Key (Between 0 and 26)");
+        System.out.println("Enter The Cipher key or Shift  Key that should be between 0 and 26");
         cipher.setCipherKey(Integer.parseInt(scanner.nextLine()));
 
 
